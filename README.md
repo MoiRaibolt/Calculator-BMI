@@ -4,7 +4,7 @@ A simple Body Mass Index (BMI) calculator built with HTML, CSS, and JavaScript.
 
 ---
 <p align="center">
-  <img src="assets/images/Calculator-BMI.png" alt="Calculator-BMI Screenshot" width="400">
+  ![Calculator-BMI Banner](assets/images/calculator-bmi.png)
 </p>
 
 ## 📋 Table of Contents
