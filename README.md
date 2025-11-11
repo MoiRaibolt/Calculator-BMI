@@ -1,65 +1,80 @@
-# Calculator-BMI
+# 🧮 Calculator-BMI
 
-Uma calculadora simples de Índice de Massa Corporal (IMC / BMI) feita com HTML, CSS e JavaScript.
+A simple Body Mass Index (BMI) calculator built with HTML, CSS, and JavaScript.
 
-## 📋 Índice
-- [Sobre](#sobre)  
-- [Funcionalidades](#funcionalidades)  
-- [Como usar](#como-usar)  
-- [Instalação / Execução Local](#instalação-/-execução-local)  
-- [Tecnologias](#tecnologias)  
-- [Contribuição](#contribuição)  
-- [Licença](#licença)  
+---
 
-## Sobre
-Este projeto permite que o usuário informe seu peso e altura, e então calcula o IMC e exibe uma classificação (abaixo do peso, peso normal, sobrepeso, obesidade).  
-É ideal como exercício de front-end leve ou como ferramenta rápida para aprendizado.
+## 📋 Table of Contents
 
-## Funcionalidades
-- Entrada de peso (em kg) e altura (em metros ou centímetros)  
-- Cálculo automático do IMC  
-- Classificação visual/ textual do resultado  
-- Layout responsivo / interface simples  
-- Mensagens de erro ou validação para entradas inválidas  
+- [About](#about)  
+- [Features](#features)  
+- [How to Use](#how-to-use)  
+- [Local Installation / Running](#local-installation--running)  
+- [Technologies](#technologies)  
+- [Contributing](#contributing)  
+- [License](#license)  
 
-## Como usar
-1. Clone este repositório:  
+---
+
+## About
+
+This project allows users to enter their weight and height, calculates their BMI, and displays a corresponding health classification (underweight, normal weight, overweight, obesity).  
+
+It is ideal as a lightweight front-end exercise or as a quick tool for learning purposes.
+
+---
+
+## Features
+
+- Input for weight (in kg) and height (in meters or centimeters)  
+- Automatic BMI calculation  
+- Visual/textual classification of the result  
+- Responsive layout / simple user interface  
+- Validation/error messages for incorrect inputs  
+
+---
+
+## How to Use
+
+1. Clone this repository:  
    ```bash
    git clone https://github.com/MoiRaibolt/Calculator-BMI.git
+2. Navigate into the project folder:
 
-2. Navegue até a pasta do projeto:
    cd Calculator-BMI
 
-3. Abra o arquivo index.html no seu navegador (duplo clique ou via servidor local).
 
-4. Insira sua altura e peso, clique no botão de calcular, e veja o resultado.
+3. Open index.html in your browser (double-click or via a local server).
 
-Instalação / Execução Local
+4. Enter your height and weight, click the "Calculate" button, and see your BMI result.
 
-Nenhuma instalação especial é necessária — basta abrir index.html.
-Se quiser, você pode rodar via servidor local (ex: VSCode Live Server, Python http.server, etc) para testar melhor.
+Local Installation / Running
 
-Tecnologias
+No special installation is required — just open index.html.
+
+Optionally, you can run it on a local server (e.g., VSCode Live Server, Python http.server, etc.) for better testing.
+
+Technologies
 
 HTML5
 
 CSS3
 
-JavaScript (vanilla)
+JavaScript (Vanilla)
 
-(Opcional: se usou algo mais, como frameworks ou bibliotecas — inclua aqui)
+(Optional: include any additional frameworks or libraries if used)
 
-Contribuição
+Contributing
 
-Contribuições são muito bem-vindas! Se você encontrar bugs, tiver ideias de melhorias ou quiser adicionar funcionalidades, por favor:
+Contributions are welcome! If you find bugs, have ideas for improvements, or want to add features:
 
-Abra um issue descrevendo a proposta ou problema.
+1. Open an issue describing your suggestion or problem.
 
-Faça um fork do projeto, crie sua feature branch, commit suas mudanças e faça um pull request.
+2.Fork the project, create a feature branch, commit your changes, and open a pull request.
 
-Certifique-se que seu código está bem documentado e funciona nos navegadores mais comuns.
+Ma3. ke sure your code is well-documented and works in common browsers.
 
-Licença
+License
 
-Este projeto está licenciado sob a MIT License — veja o arquivo LICENSE
- para mais detalhes.
+This project is licensed under the MIT License — see the LICENSE
+ file for details.
