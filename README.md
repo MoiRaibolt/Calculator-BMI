@@ -71,7 +71,7 @@ Contributions are welcome! If you find bugs, have ideas for improvements, or wan
 
 1. Open an issue describing your suggestion or problem.
 
-2.Fork the project, create a feature branch, commit your changes, and open a pull request.
+2. Fork the project, create a feature branch, commit your changes, and open a pull request.
 
 Ma3. ke sure your code is well-documented and works in common browsers.
 
