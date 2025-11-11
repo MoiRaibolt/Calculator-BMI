@@ -64,6 +64,7 @@ JavaScript (Vanilla)
 
 (Optional: include any additional frameworks or libraries if used)
 
+
 Contributing
 
 Contributions are welcome! If you find bugs, have ideas for improvements, or want to add features:
@@ -77,4 +78,4 @@ Ma3. ke sure your code is well-documented and works in common browsers.
 License
 
 This project is licensed under the MIT License — see the LICENSE
- file for details.
+file for details.
